@@ -1,0 +1,11 @@
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\Daniel\Documents\Documents\Estudo C#\Repositorio Backup\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
